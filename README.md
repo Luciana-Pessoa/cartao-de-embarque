@@ -2,7 +2,7 @@
 
 
 <p align="center">
-  <img src=".github/preview.jpg" width="100%">
+ ![cartao de embarque](https://user-images.githubusercontent.com/103122284/235813322-0503f820-196d-47d0-ab88-f105847dca1f.png)
 </p>
 
 ## 🚀 Tecnologias
