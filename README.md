@@ -11,7 +11,7 @@
 </p>
 
 <p align="center">
-  <img alt="License" src="https://img.shields.io/static/v1?label=license&message=MIT&color=49AA26&labelColor=000000">
+ ![image](https://user-images.githubusercontent.com/103122284/235813029-8edc7123-e1b2-430f-be64-e65517a5c11f.png)
 </p>
 
 <br>
