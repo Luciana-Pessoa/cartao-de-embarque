@@ -2,10 +2,12 @@
 
 
 <p align="center">
- ![cartao de embarque](https://user-images.githubusercontent.com/103122284/235813322-0503f820-196d-47d0-ab88-f105847dca1f.png)
+ ![235813322-0503f820-196d-47d0-ab88-f105847dca1f](https://user-images.githubusercontent.com/103122284/235813504-466e0472-9d93-44bb-abfc-fe4c3235c3d7.png)
+
 </p>
 
 ## 🚀 Tecnologias
+
 
 Esse projeto foi desenvolvido com as seguintes tecnologias:
 
